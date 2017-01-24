@@ -38,6 +38,7 @@ void fade_pin(int8_t led, int8_t dir)
     }
 }
 
+
 int main(void)
 {
     LED_DDR = 0XFF;
